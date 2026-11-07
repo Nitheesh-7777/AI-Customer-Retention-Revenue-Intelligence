@@ -1,2 +1,0 @@
-AI-Customer-Retention-Revenue-Intelligence
-A collaborative AI Business Analytics portfolio project focused on Customer Retention and Revenue Intelligence using SQL, Python, Power BI, LLMs, and Agentic AI.
